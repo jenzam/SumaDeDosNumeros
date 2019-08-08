@@ -1,0 +1,9 @@
+real a,b,c
+inicio 
+escriba "sumando dos numeros ingresados por teclado"
+llamar nueva_linea
+escriba "ingrese el primer numero"
+lea b
+c <- a+b
+escriba "la suma de ",a, " mas b que es  ",b," es ",c
+fin
